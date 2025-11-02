@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+download/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtualenvs
+.venv/
+venv/
+ENV/
+env/
+
+# User-local install (pip --user)
+~/.local/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project outputs
+logs/
+plots/
+benchmarks/
+
+# Python tooling
+.mypy_cache/
+.coverage
+
+# Temporary files
+*.tmp
+*.log
+
+# macOS
+**/.DS_Store
+
+# Optional: lock files
+poetry.lock
+
+# Ignore editor swap files
+*~
+*.swp
+
+# Secrets (if any)
+.env
+
+# Compiled C/C++ objects
+*.o
+*.obj
