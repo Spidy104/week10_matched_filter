@@ -58,8 +58,6 @@ Thumbs.db
 
 # Project outputs
 logs/
-plots/
-benchmarks/
 
 # Python tooling
 .mypy_cache/
