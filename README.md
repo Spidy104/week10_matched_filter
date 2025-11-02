@@ -85,3 +85,7 @@ License and attribution
 This project is educational. Use and adapt the code for learning and
 experimentation. No license file is included; add one if you intend to
 publish or redistribute this repository.
+
+Enjoy the snapshots
+
+![Eye Diagrams](plots/eye_clean.png)
